@@ -43,4 +43,4 @@ This reflects the real research process.
 
 ## How to Cite
 Bibi, M. (2026). Herding Behaviour in FTSE 100.  
-GitHub: https://github.com/Maria- Bibi/herding-behaviour-learning
+GitHub: https://github.com/Maria-bibi/herding-behaviour-learning
