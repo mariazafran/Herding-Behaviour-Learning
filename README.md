@@ -24,6 +24,11 @@ The aim is to:
 - Experiment with econometric models
 - Develop financial data analysis skills
 
+## Project Structure
+
+- 01_learning_herding_analysis.ipynb → Initial CSAD model
+- 02_sector_analysis.ipynb → Sector-level analysis and extensions
+
 ## Important Note
 This repository includes:
 - Initial attempts
