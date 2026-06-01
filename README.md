@@ -47,7 +47,7 @@ The aim is to:
 https://colab.research.google.com/drive/1oIlS1laBv9u_Hqy-1V_CVKn9CrAU4QDH?usp=sharing  
 
  **View (recommended if GitHub preview donot work)
-https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/01_learning_herding_analysis.ipynb
+https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/01-Learning-herding-analysis-%20May%2031,%202026.ipynb
 
 ---
 
