@@ -46,14 +46,14 @@ Bibi, M. (2026). Herding Behaviour in FTSE 100.
 Available at: https://github.com/mariazafran/Herding-Behaviour-Learning
 
 
-## View Notebooks
+## 🚀 View Notebooks
 
- Open interactive notebooks in Google Colab:
+### 📊 Aggregate Market Analysis
+🔗 Run in Google Colab:  
+https://colab.research.google.com/drive/1oIlS1laBv9u_Hqy-1V_CVKn9CrAU4QDH?usp=sharing  
 
-- https://colab.research.google.com/github/mariazafran/Herding-Behaviour-Learning/blob/main/01_learning_herding_analysis.ipynb
-- https://colab.research.google.com/github/mariazafran/Herding-Behaviour-Learning/blob/main/02_sector_analysis.ipynb
+---
 
-View notebooks (static view via nbviewer):
-
-- https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/01_learning_herding_analysis.ipynb  
-- https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/02_sector_analysis.ipynb  
+### 📊 Sector-Level Analysis
+🔗 Run in Google Colab:  
+https://colab.research.google.com/drive/1sO75GnPny9jqPOclZ_z2EKfXJzNN1sSy?usp=sharing  
