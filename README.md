@@ -46,7 +46,7 @@ The aim is to:
 🔗 **Run in Google Colab:**  
 https://colab.research.google.com/drive/1oIlS1laBv9u_Hqy-1V_CVKn9CrAU4QDH?usp=sharing  
 
- **View (recommended if GitHub preview donot work)
+ **View (recommended if GitHub preview fails)**
 https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/01-Learning-herding-analysis-%20May%2031,%202026.ipynb
 
 ---
@@ -56,7 +56,7 @@ https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/01-
 https://colab.research.google.com/drive/1sO75GnPny9jqPOclZ_z2EKfXJzNN1sSy?usp=sharing  
 
 **View (recommended if GitHub preview fails):**  
-https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/02_sector_analysis.ipynb  
+https://nbviewer.org/github/mariazafran/Herding-Behaviour-Learning/blob/main/2.Sector-analyis.ipynb
 
 ---
 
