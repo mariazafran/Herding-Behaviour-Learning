@@ -1,6 +1,6 @@
 # Herding Behaviour in FTSE 100 (Learning & Pilot Study)
 
-PhD learning journey: financial econometrics and herding behaviour (CSAD models)
+learning journey: financial econometrics and herding behaviour (CSAD models)
 
 ---
 
