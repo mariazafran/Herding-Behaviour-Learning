@@ -5,7 +5,7 @@ learning journey: financial econometrics and herding behaviour (CSAD models)
 ---
 
 ## Overview
-This repository documents early-stage learning and experimentation in financial econometrics as part of my PhD journey.
+This repository documents early-stage learning and experimentation in financial econometrics as part of my learning journey.
 
 The project explores **herding behaviour in UK equity markets** using Cross-Sectional Absolute Deviation (CSAD) models.
 
